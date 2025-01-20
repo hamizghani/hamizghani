@@ -14,7 +14,7 @@ function Achievement(){
                 title="1st Winner of 180DC UGM Business Case Competition 2024"
                 issuedBy="180 Degrees Consulting - Universitas Gadjah Mada (UGM)"
                 date="Jul 2024"
-                />
+                />  
                 <AchievementList 
                 title="4th Place in Computer Problem Solving Competition Pesta Sains IPB 2023"
                 issuedBy="IPB University"

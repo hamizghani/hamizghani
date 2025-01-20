@@ -17,6 +17,13 @@ function Experience() {
                 <div className="w-full lg:w-3/5 sm:w-4/5 flex flex-col">
                     <div className="flex flex-col gap-8 w-full items-center">
                         <ExperienceList
+                            title="Computer Science Student (GPA: 4.00/4.00)"
+                            companies="CS - Universitas Indonesia"
+                            startDate="Aug 2024"
+                            endDate="Aug 2028"
+                            description="Currently pursuing a Bachelor's degree in Computer Science at the University of Indonesia, with a focus on Data Science and Business Informatics."
+                        />
+                        <ExperienceList
                             title="Competitive Programming Blogger"
                             companies="Kokocoder Group"
                             startDate="Okt 2023"
